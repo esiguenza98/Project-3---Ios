@@ -1,7 +1,7 @@
 
 # Project 3 - Flixster pt 2
 
-Submitted by: **Your Name Here**
+Submitted by: Efren Siguenza
 
 **Name of your app** 
 
